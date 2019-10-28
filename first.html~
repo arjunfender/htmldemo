@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+	
+	<head>
+		<title>Arun</title>
+
+	</head>
+
+	<body>
+		<h1>
+		This is my first web page -H1 tag
+		</h1>
+		<h2> welcme  H2 tag</h2>
+		<h3> welcome H3 tag</h3>
+		<h4> welcome H4 tag</h4>
+		<h5> welcome H5 tag</h5>
+		<h6> welcome H6 tag</h6>
+		
+		<strong> fmdlkgnfdkl </strong>
+		<strong> fgflkgjfj </strong>
+		<span> span tag </span>
+		<em> em tag on italic -italic html 5</em>
+		<i> hai I  -old italic</i>
+	
+		<p> this is pargraph tag - mfkfgldfk;gjdflkjgjsgk;j;fgkdgjk What is Lorem Ipsum Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum has been the industry's standard dummy text ever since the 1500s when an unknown printer took a galley of type and scrambled it to make a type specimen book it has?</p>
+
+		<a href ="https://www.google.com/" target="_blank"> link</a>
+	
+
+	</body>
+</html>

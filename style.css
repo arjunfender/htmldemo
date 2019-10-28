@@ -1,0 +1,23 @@
+
+        body
+        {
+            background-color:lightgreen;
+             text-align:center;
+             background-image: url("bg.jpeg");
+             background-repeat: no-repeat;
+             background-size: cover;
+             }
+
+
+        h1{
+            color: rgb(212,40 ,45  );
+        }
+        h2{
+            color: blue;
+        }
+
+        img{
+            width: 100px;
+            height: 100px;
+
+        }
