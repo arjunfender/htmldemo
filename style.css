@@ -6,11 +6,13 @@
              background-image: url("bg.jpeg");
              background-repeat: no-repeat;
              background-size: cover;
+             margin: 0px;
              }
 
 
         h1{
             color: rgb(212,40 ,45  );
+            
         }
         h2{
             color: blue;
@@ -19,5 +21,73 @@
         img{
             width: 100px;
             height: 100px;
+            padding:100px;
 
+        }
+        .header{
+            
+             margin-bottom: 10px;
+        }
+        .left{
+            float: left;
+            height: 300px;
+            width: 40%;
+            background-color: rgba(113, 114, 116, 0.589);
+            padding:20px;
+            border-radius: 25px;
+            margin-left: 60px;
+                     
+          
+            
+        }
+        .right{
+            float: left;
+            height: 300px;
+            width: 40%;
+            background-color: rgba(119, 136, 153, 0.562);
+            padding:20px;
+            border-radius: 25px;
+            margin-right: 60px;
+            margin-left:20px;
+                  
+            
+             
+        }
+        .main{
+            display: flex;
+            flex-direction: row;
+        }
+        .footer{
+            
+            background-color: rgba(159, 43, 226, 0.247);
+            height: 70px;
+            border-radius: 25px;
+            padding-top: 25px;
+            margin-top: 40px;
+            margin-bottom: 0;
+            margin-left: 0;
+            margin-right: 0;
+            
+        }
+
+        ul{
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+            background-color: rgba(137, 43, 226, 0.247);
+            
+        }
+        
+        li{
+            float: left;
+        }
+        li a{
+            display: block;
+            color: rgba(165, 42, 42, 0.692);
+            text-align: center;
+            font-size: 20px;
+            font-weight: bold;
+            padding: 14px 16px;
+            text-decoration: none;
         }
